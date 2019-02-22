@@ -18,7 +18,7 @@
         购物车
       </mt-tab-item>
       <mt-tab-item id="search">
-        <img slot="icon" src="./assets/img/search.png">
+        <img slot="icon" src="./assets/img/find.png">
         查找
       </mt-tab-item>
     </mt-tabbar>
